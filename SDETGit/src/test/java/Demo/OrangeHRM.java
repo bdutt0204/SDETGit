@@ -22,7 +22,7 @@ public class OrangeHRM {
 	@BeforeTest
 	public void setup()
 	{
-		System.out.println("Before Test Executed:");
+		System.out.println("Before Test Executed:Seeing GitHub Changes");
 
 		driver = new ChromeDriver();
 
